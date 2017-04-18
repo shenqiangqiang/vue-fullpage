@@ -1,6 +1,6 @@
 # vue-fullpage
 
-[效果展示界面](http://hzxszsk.github.io/vue-fullpage/)
+[效果展示界面](http://shenqiangqiang.github.io/vue-fullpage/)
 
 使用vue.js制作的一个fullpage模板，可以通过修改配置，添加任意数量的page，支持滚轮和触摸滚动
 
@@ -19,17 +19,6 @@ npm run build
 
 ## 效果演示
 
-- 箭头控制切换效果
-
-![箭头控制](./doc/arrow.gif)
-
-- 右侧导航控制切换效果
-
-![导航条控制](./doc/controller.gif)
-
-- 移动端触屏切换效果
-
-![导航条控制](./doc/touch.gif)
 
 ## 配置说明
 
