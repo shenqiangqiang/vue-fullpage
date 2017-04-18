@@ -56,9 +56,8 @@
         <h1 class="text-center">作者信息</h1>
         <img class="avatar" src="./assets/avatar.jpg" alt="头像">
         <div class="author-info">
-          <p>昵称：KainStar</p>
-          <p>学校：南京理工大学</p>
-          <p>我的Github：<a href="https://github.com/hzxszsk" target="_blank">https://github.com/hzxszsk</a></p>
+          <p>昵称：SQ</p>
+          <p>我的Github：<a href="https://github.com/shenqiangqiang" target="_blank">https://github.com/shenqiangqiang</a></p>
         </div>
       </section>
     </page>

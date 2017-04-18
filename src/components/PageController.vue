@@ -24,14 +24,14 @@ export default {
   computed: {
     nextIndex () {
       if (this.currentPage === this.pageNum) {
-        return 1;
+        return this.currentPage;
       } else {
         return this.currentPage + 1;
       }
     },
     prevIndex () {
       if (this.currentPage === 1) {
-        return this.pageNum;
+        return this.currentPage;
       } else {
         return this.currentPage - 1;
       }
